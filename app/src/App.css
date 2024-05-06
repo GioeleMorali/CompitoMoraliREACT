@@ -1,5 +1,35 @@
 .App {
   text-align: center;
+  color: tomato;
+  font-size: 50px;
+}
+h1{
+  color: tomato; 
+}
+button {
+  background-color: bisque;
+  color: green;
+  font-size: 50px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 10px;
+}
+h3{
+  color: blue;
+}
+body{
+  background-color: black;
+  color: white;
+}
+input {
+  background-color: bisque;
+  color: green;
+  font-size: 20px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin: 10px;
+  width: 350px;
 }
 
 .App-logo {
